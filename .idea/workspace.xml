@@ -1,0 +1,582 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b6c7774b-53e9-4900-a276-8c97f7a3e151" name="Default Changelist" comment="feat: add new project 3" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="html/sprint-3-new" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="1t7OB9sgdFx1STbsGPEjbpwvRwQ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Git.Branch.Popup.ShowAllRemotes" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/vendor/fonts" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.HTML" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/vendor/fonts" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/images" />
+      <recent name="$PROJECT_DIR$/blocks" />
+      <recent name="$PROJECT_DIR$/backend" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/blocks" />
+      <recent name="$PROJECT_DIR$/frontend" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/backend" />
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="npm.dev">
+    <configuration name="dev (1)" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/backend/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="dev" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="dev" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="dev" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="lint" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/backend/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="lint" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="start (1)" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/frontend/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="start" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.start (1)" />
+        <item itemvalue="npm.start" />
+        <item itemvalue="npm.lint" />
+        <item itemvalue="npm.dev (1)" />
+        <item itemvalue="npm.dev" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b6c7774b-53e9-4900-a276-8c97f7a3e151" name="Default Changelist" comment="" />
+      <created>1622116522875</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1622116522875</updated>
+      <workItem from="1622116523956" duration="4081000" />
+      <workItem from="1636530223839" duration="10274000" />
+      <workItem from="1636614885442" duration="2218000" />
+      <workItem from="1637047509838" duration="3418000" />
+      <workItem from="1637071941695" duration="1429000" />
+      <workItem from="1637150640457" duration="2480000" />
+      <workItem from="1637655177368" duration="4859000" />
+      <workItem from="1637742787856" duration="3143000" />
+      <workItem from="1637914451148" duration="1955000" />
+      <workItem from="1638266561996" duration="568000" />
+      <workItem from="1638528122105" duration="120000" />
+      <workItem from="1638866321771" duration="997000" />
+      <workItem from="1638875022333" duration="192000" />
+      <workItem from="1638951668532" duration="497000" />
+      <workItem from="1639040502806" duration="4160000" />
+      <workItem from="1640605474746" duration="5407000" />
+      <workItem from="1640611332721" duration="699000" />
+      <workItem from="1640763760349" duration="4564000" />
+      <workItem from="1640779007507" duration="1802000" />
+      <workItem from="1641979651517" duration="3743000" />
+      <workItem from="1642012002535" duration="1733000" />
+      <workItem from="1642072711970" duration="381000" />
+      <workItem from="1642080229156" duration="251000" />
+      <workItem from="1642403998281" duration="84000" />
+      <workItem from="1642408612407" duration="401000" />
+      <workItem from="1642593049966" duration="349000" />
+      <workItem from="1642594677308" duration="582000" />
+      <workItem from="1643009501552" duration="901000" />
+      <workItem from="1643096622674" duration="690000" />
+      <workItem from="1643114095832" duration="359000" />
+      <workItem from="1643181528421" duration="1799000" />
+      <workItem from="1643277613318" duration="110000" />
+      <workItem from="1643300704454" duration="262000" />
+      <workItem from="1643358432510" duration="225000" />
+      <workItem from="1643363118438" duration="188000" />
+      <workItem from="1643619316652" duration="599000" />
+      <workItem from="1643786942999" duration="2971000" />
+      <workItem from="1643806841916" duration="495000" />
+      <workItem from="1645172494634" duration="540000" />
+      <workItem from="1645426106822" duration="4253000" />
+      <workItem from="1645515438262" duration="935000" />
+      <workItem from="1646130855805" duration="115000" />
+      <workItem from="1646143354928" duration="986000" />
+      <workItem from="1646291901680" duration="433000" />
+      <workItem from="1646461946479" duration="431000" />
+      <workItem from="1646489027442" duration="923000" />
+      <workItem from="1646824206814" duration="648000" />
+      <workItem from="1646835934794" duration="493000" />
+      <workItem from="1646980496026" duration="210000" />
+      <workItem from="1646983120893" duration="761000" />
+      <workItem from="1646997940164" duration="300000" />
+      <workItem from="1647254486642" duration="3903000" />
+      <workItem from="1647419502804" duration="1061000" />
+      <workItem from="1647438236115" duration="848000" />
+      <workItem from="1647439749420" duration="305000" />
+      <workItem from="1648032941233" duration="8000" />
+      <workItem from="1648052487866" duration="594000" />
+      <workItem from="1648802808160" duration="224000" />
+      <workItem from="1649320577049" duration="323000" />
+      <workItem from="1649695282132" duration="1059000" />
+      <workItem from="1649840849106" duration="425000" />
+      <workItem from="1649923641231" duration="575000" />
+      <workItem from="1650289866847" duration="167000" />
+      <workItem from="1650380657247" duration="709000" />
+      <workItem from="1650444642037" duration="152000" />
+      <workItem from="1650451099379" duration="535000" />
+      <workItem from="1650962486130" duration="3061000" />
+      <workItem from="1651047872317" duration="1238000" />
+      <workItem from="1651052507610" duration="3679000" />
+      <workItem from="1651132578102" duration="2107000" />
+    </task>
+    <task id="LOCAL-00007" summary="fix: formatting">
+      <created>1636536471106</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1636536471106</updated>
+    </task>
+    <task id="LOCAL-00008" summary="fix: formatting">
+      <created>1636536501823</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1636536501823</updated>
+    </task>
+    <task id="LOCAL-00009" summary="feat: add and refactor 2 sprint">
+      <created>1636540769276</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1636540769276</updated>
+    </task>
+    <task id="LOCAL-00010" summary="fix: import styles in index.css">
+      <created>1636542092133</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1636542092133</updated>
+    </task>
+    <task id="LOCAL-00011" summary="feat: add sprint 3">
+      <created>1636618880543</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1636618880543</updated>
+    </task>
+    <task id="LOCAL-00012" summary="feat: add and refactor sprint 4">
+      <created>1637051564343</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1637051564343</updated>
+    </task>
+    <task id="LOCAL-00013" summary="fix: readme of sprint 4">
+      <created>1637072193287</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1637072193287</updated>
+    </task>
+    <task id="LOCAL-00014" summary="feat: add sprint 5">
+      <created>1637151541706</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1637151541706</updated>
+    </task>
+    <task id="LOCAL-00015" summary="fix: popup on mobile resolution">
+      <created>1637152828847</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1637152828847</updated>
+    </task>
+    <task id="LOCAL-00016" summary="fix: popup on mobile resolution">
+      <created>1637153196565</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1637153196565</updated>
+    </task>
+    <task id="LOCAL-00017" summary="fix: remove unnecessary properties and apply prettier">
+      <created>1637655727019</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1637655727019</updated>
+    </task>
+    <task id="LOCAL-00018" summary="fix: replace background-image with &lt;img&gt; for avatar and card images">
+      <created>1637657648990</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1637657648990</updated>
+    </task>
+    <task id="LOCAL-00019" summary="fix: apply prettier">
+      <created>1637658002887</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1637658002887</updated>
+    </task>
+    <task id="LOCAL-00020" summary="fix: replace background-image with &lt;img&gt; and apply prettier">
+      <created>1637658677908</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1637658677908</updated>
+    </task>
+    <task id="LOCAL-00021" summary="feat: add sprint 6">
+      <created>1637661580732</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1637661580732</updated>
+    </task>
+    <task id="LOCAL-00022" summary="fix: typo in index.html">
+      <created>1637742894650</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1637742894650</updated>
+    </task>
+    <task id="LOCAL-00023" summary="feat: add sprint 7">
+      <created>1637744205078</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1637744205078</updated>
+    </task>
+    <task id="LOCAL-00024" summary="feat: add sprint 8">
+      <created>1637746114211</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1637746114211</updated>
+    </task>
+    <task id="LOCAL-00025" summary="feat: add sprint 9">
+      <created>1637916536095</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1637916536095</updated>
+    </task>
+    <task id="LOCAL-00026" summary="feat: add sprint 14">
+      <created>1639046122192</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1639046122192</updated>
+    </task>
+    <task id="LOCAL-00027" summary="feat: add sprint 12">
+      <created>1640607634883</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1640607634883</updated>
+    </task>
+    <task id="LOCAL-00028" summary="feat: add sprint 13">
+      <created>1640612022694</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1640612022694</updated>
+    </task>
+    <task id="LOCAL-00029" summary="feat: add sprint 15">
+      <created>1640768690966</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1640768690966</updated>
+    </task>
+    <task id="LOCAL-00030" summary="fix: Section class implementation">
+      <created>1641980192618</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1641980192618</updated>
+    </task>
+    <task id="LOCAL-00031" summary="fix: Section class implementation">
+      <created>1641980652343</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1641980652343</updated>
+    </task>
+    <task id="LOCAL-00032" summary="fix: add comments">
+      <created>1641983336757</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1641983336757</updated>
+    </task>
+    <task id="LOCAL-00033" summary="fix: change evt.key and modal selectors">
+      <created>1641983519146</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1641983519146</updated>
+    </task>
+    <task id="LOCAL-00034" summary="fix: year in copyright">
+      <created>1641983573333</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1641983573333</updated>
+    </task>
+    <task id="LOCAL-00035" summary="fix: modal selectors, year in copyright">
+      <created>1641983664599</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1641983664599</updated>
+    </task>
+    <task id="LOCAL-00036" summary="fix: modal selectors, evt.key, year in copyright">
+      <created>1641984625069</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1641984625069</updated>
+    </task>
+    <task id="LOCAL-00037" summary="fix: modal selectors, evt.key">
+      <created>1641984987560</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1641984987560</updated>
+    </task>
+    <task id="LOCAL-00038" summary="fix: change to mousedown event listener">
+      <created>1641985033899</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1641985033899</updated>
+    </task>
+    <task id="LOCAL-00039" summary="fix: change to mousedown event listener">
+      <created>1641985127768</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1641985127768</updated>
+    </task>
+    <task id="LOCAL-00040" summary="fix: year in copyright">
+      <created>1641985163566</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1641985163566</updated>
+    </task>
+    <task id="LOCAL-00041" summary="feat: new project 1">
+      <created>1642593245535</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1642593245535</updated>
+    </task>
+    <task id="LOCAL-00042" summary="feat: new project 2">
+      <created>1645426617676</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1645426617676</updated>
+    </task>
+    <task id="LOCAL-00043" summary="fix: update readme of project 1">
+      <created>1645426894333</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1645426894333</updated>
+    </task>
+    <task id="LOCAL-00044" summary="fix: rename variables and classnames in project 5">
+      <created>1645429127144</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1645429127144</updated>
+    </task>
+    <task id="LOCAL-00045" summary="fix: rename variables and classnames in project 4">
+      <created>1645429339431</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1645429339431</updated>
+    </task>
+    <task id="LOCAL-00046" summary="fix: rename variables and classnames in project 6">
+      <created>1645430972128</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1645430972128</updated>
+    </task>
+    <task id="LOCAL-00047" summary="fix: rename variables and classnames in project 7">
+      <created>1645431154384</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1645431154384</updated>
+    </task>
+    <task id="LOCAL-00048" summary="fix: rename variables and classnames, add reset validation in project 8">
+      <created>1645431625811</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1645431625811</updated>
+    </task>
+    <task id="LOCAL-00049" summary="fix: rename variables and classnames, add reset validation in project 9">
+      <created>1645432365878</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1645432365878</updated>
+    </task>
+    <task id="LOCAL-00050" summary="fix: replace name of the form with id in sprint 5">
+      <created>1645432431279</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1645432431279</updated>
+    </task>
+    <task id="LOCAL-00051" summary="fix: replace name of the form with id">
+      <created>1645432487136</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1645432487136</updated>
+    </task>
+    <task id="LOCAL-00052" summary="fix: replace name of the form with id">
+      <created>1645432741456</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1645432741456</updated>
+    </task>
+    <task id="LOCAL-00053" summary="fix: replace name of the form with id">
+      <created>1645432771416</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1645432771416</updated>
+    </task>
+    <task id="LOCAL-00054" summary="fix: update new project 1">
+      <created>1645516212782</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1645516212782</updated>
+    </task>
+    <task id="LOCAL-00055" summary="feat: add new project 3">
+      <created>1651049258373</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1651049258373</updated>
+    </task>
+    <option name="localTasksCounter" value="56" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="feat: add sprint 14" />
+    <MESSAGE value="feat: add sprint 12" />
+    <MESSAGE value="feat: add sprint 13" />
+    <MESSAGE value="feat: add sprint 15" />
+    <MESSAGE value="fix: Section class implementation" />
+    <MESSAGE value="fix: add comments" />
+    <MESSAGE value="fix: change evt.key and modal selectors" />
+    <MESSAGE value="fix: modal selectors, year in copyright" />
+    <MESSAGE value="fix: modal selectors, evt.key, year in copyright" />
+    <MESSAGE value="fix: modal selectors, evt.key" />
+    <MESSAGE value="fix: change to mousedown event listener" />
+    <MESSAGE value="fix: year in copyright" />
+    <MESSAGE value="feat: new project 1" />
+    <MESSAGE value="feat: new project 2" />
+    <MESSAGE value="fix: update readme of project 1" />
+    <MESSAGE value="fix: rename variables and classnames in project 5" />
+    <MESSAGE value="fix: rename variables and classnames in project 4" />
+    <MESSAGE value="fix: rename variables and classnames in project 6" />
+    <MESSAGE value="fix: rename variables and classnames in project 7" />
+    <MESSAGE value="fix: rename variables and classnames, add reset validation in project 8" />
+    <MESSAGE value="fix: rename variables and classnames, add reset validation in project 9" />
+    <MESSAGE value="fix: replace name of the form with id in sprint 5" />
+    <MESSAGE value="fix: replace name of the form with id" />
+    <MESSAGE value="fix: update new project 1" />
+    <MESSAGE value="feat: add new project 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: add new project 3" />
+  </component>
+</project>
